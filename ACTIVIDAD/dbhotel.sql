@@ -1,4 +1,3 @@
-https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html
 
 DROP DATABASE IF EXISTS Hotel;
 CREATE DATABASE Hotel CHARACTER set utf8mb4;
